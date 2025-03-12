@@ -1,4 +1,6 @@
 import numpy as np
+print("teste")
+
 
 # Definir matrizes
 A = np.array([[1, 2], [3, 4]])
