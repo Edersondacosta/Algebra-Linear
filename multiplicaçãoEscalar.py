@@ -11,3 +11,5 @@ print("teste")
 
 # Imprimir resultados
 print("Multiplicação por escalar:\n", scalar_mult_result)
+
+print("teste2")
