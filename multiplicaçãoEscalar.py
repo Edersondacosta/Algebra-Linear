@@ -7,7 +7,7 @@ c = 3
 
 # Operações com matrizes
 scalar_mult_result = c * A
-
+print("teste")
 
 # Imprimir resultados
 print("Multiplicação por escalar:\n", scalar_mult_result)
